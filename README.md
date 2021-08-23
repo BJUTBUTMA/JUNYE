@@ -26,6 +26,11 @@
 1. 注册GitHub账号，将账号名发给我。
 2. 拉你进入这个项目，作为开发者身份，以后登陆自己的账号就可以编辑更改内容。
 
+## 如何邀请别人加入你的项目一起上传文件
+1. 点击setting
+![image](https://user-images.githubusercontent.com/89371638/130397084-3aa76a1e-fe56-40ab-b5c4-fceee1311548.png)
+2. 点击左侧Manage Access
+3. 点击invite a collaborator.
 ## MAC 如何通过终端上传到GitHub (可适用于传多个大文件）
 ### 1. 打开终端下载git
 ```
